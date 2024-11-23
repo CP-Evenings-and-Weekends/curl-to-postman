@@ -1,1 +1,22 @@
+// In the Postman account, I posted the following url: https://catfact.ninja/fact
 
+
+{
+    "fact": "Mountain lions are strong jumpers, thanks to muscular hind legs that are longer than their front legs.",
+    "length": 102
+}
+
+{
+    "fact": "It is estimated that cats can make over 60 different sounds.",
+    "length": 60
+}
+
+{
+    "fact": "The Maine Coon is 4 to 5 times larger than the Singapura, the smallest breed of cat.",
+    "length": 84
+}
+
+{
+    "fact": "The cat appears to be the only domestic companion animal not mentioned in the Bible.",
+    "length": 84
+}
