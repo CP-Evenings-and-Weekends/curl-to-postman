@@ -1,0 +1,73 @@
+{
+	"info": {
+		"_postman_id": "0e0da2a8-9a8b-447b-9e8a-1e3d2d56bb6e",
+		"name": "11_23_challenge_cat_facts Copy",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38341561"
+	},
+	"item": [
+		{
+			"name": "https://catfact.ninja/fact",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://catfact.ninja/fact",
+					"protocol": "https",
+					"host": [
+						"catfact",
+						"ninja"
+					],
+					"path": [
+						"fact"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://catfact.ninja/facts",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://catfact.ninja/facts",
+					"protocol": "https",
+					"host": [
+						"catfact",
+						"ninja"
+					],
+					"path": [
+						"facts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://catfact.ninja/facts?=34",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://catfact.ninja/facts?=34",
+					"protocol": "https",
+					"host": [
+						"catfact",
+						"ninja"
+					],
+					"path": [
+						"facts"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": "34"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
