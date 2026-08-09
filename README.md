@@ -15,7 +15,7 @@ Pick **one** of the public APIs below and use the `curl` command to make at leas
 - [The Dog API](https://thedogapi.com/)
 - [Open-Meteo Weather](https://open-meteo.com/) — no API key needed
 - [Random User Generator](https://randomuser.me/)
-- [Star Wars API (SWAPI)](https://swapi.dev/)
+- [Star Wars API (SWAPI)](https://swapi.py4e.com/)
 
 > Most free public APIs **only** support `GET` (letting strangers `POST` to your database is a recipe for disaster).  JSONPlaceholder fakes the others if you want to practice them.
 
